@@ -1,0 +1,8 @@
+Started GET "/" for ::1 at 2020-03-30 11:24:44 +0700
+  [1m[35m (39.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/railties-6.0.2.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/railties-6.0.2.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 78.8ms | Allocations: 417)
+Completed 200 OK in 216ms (Views: 149.9ms | ActiveRecord: 0.0ms | Allocations: 2335)
+
+
